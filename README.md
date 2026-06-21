@@ -22,6 +22,15 @@ My work blends futures trading workflows, prop firm workflows, QA/SDET practices
 | [Luna Peak Software](https://github.com/CindyADH/agentic-ai-trading-resume/blob/main/projects/luna-peak-software.md) | Trading tools, automation, support infrastructure, and product operations |
 | [Quiet Money Method Community](https://github.com/CindyADH/agentic-ai-trading-resume/blob/main/projects/quiet-money-method-community.md) | Trading education systems, community workflows, and member support operations |
 
+## Live Sites Built With Agentic AI
+
+These sites were built with agentic AI-assisted development, human review, and hands-on product direction.
+
+- [Luna Peak Software](https://lunapeaksoftware.com)
+- [Luna Peak Copier](https://lunapeakcopier.com)
+- [Centsible Future](https://centsiblefuture.com)
+- [Quiet Money Method](https://cindyanntrades.com/qmm)
+
 ## Toolkit
 
 - AI and automation: Claude, Claude Code, OpenAI, Make, prompt design, workflow automation
